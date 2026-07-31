@@ -1,0 +1,6 @@
+{
+  "Name": "Sample_2",
+  "ProjectType": "Process",
+  "Description": "Sample_2 project is to deploy into git and github",
+  "MainFile": "Main.xaml"
+}
